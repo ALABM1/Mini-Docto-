@@ -7,9 +7,10 @@ Application complète de prise de rendez-vous médicaux (Test Technique ReadyToT
 Suivez ces étapes pour lancer le projet complet en quelques minutes.
 
 ### 📋 Prérequis
-*   **Node.js** (v14 ou supérieur)
-*   **Flutter SDK** (v3.0 ou supérieur)
-*   **MongoDB** (Doit être lancé localement sur le port 27017)
+*   **Node.js**
+*   **Flutter SDK**
+*   **MongoDB** (Doit être lancé localement)
+*   **Web** : React
 
 ---
 
