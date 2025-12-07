@@ -1,0 +1,21 @@
+# Node.js / General
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+.DS_Store
+.vscode/
+
+# React Web
+web/build/
+web/dist/
+
+# Flutter / Mobile
+mobile/.dart_tool/
+mobile/.idea/
+mobile/build/
+mobile/android/.gradle
+mobile/android/local.properties
+mobile/ios/Flutter/Generated.xcconfig
+mobile/ios/Flutter/flutter_export_environment.sh
+mobile/ios/.generated/
